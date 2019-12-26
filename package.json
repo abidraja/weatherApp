@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/abidraja/weatherApp/issues"
   },
-  "homepage": "https://github.com/abidraja/weatherApp#readme"
+  "homepage": "https://github.com/abidraja/weatherApp#readme",
+  "dependencies": {
+    "ts-node": "^8.5.4",
+    "typescript": "^3.7.4"
+  },
+  "devDependencies": {
+    "@types/node": "^13.1.1"
+  }
 }
